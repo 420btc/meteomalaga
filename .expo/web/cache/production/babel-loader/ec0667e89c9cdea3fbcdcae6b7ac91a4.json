@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function useBackButton(_){}","map":{"version":3,"names":["useBackButton","_"],"sources":["../../src/useBackButton.tsx"],"sourcesContent":[null],"mappings":"AAKA,cAAe,SAAS,CAAAA,aAAaA,CACnCC,CAAyD,CACzD,CAEA","ignoreList":[]},"metadata":{},"sourceType":"module"}

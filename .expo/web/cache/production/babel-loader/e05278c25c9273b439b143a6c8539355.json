@@ -1,0 +1,1 @@
+{"ast":null,"code":"export*from\"./Font\";export{useFonts}from\"./FontHooks\";","map":{"version":3,"names":["useFonts"],"sources":["../src/index.ts"],"sourcesContent":["export * from './Font';\nexport { useFonts } from './FontHooks';\n"],"mappings":"AAAA,oBACA,OAASA,QAAQ","ignoreList":[]},"metadata":{},"sourceType":"module"}

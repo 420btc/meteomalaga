@@ -1,0 +1,15 @@
+{
+  "presets": ["babel-preset-expo"],
+  "plugins": [
+    ["module-resolver", {
+      "alias": {
+        "crypto": "crypto-browserify",
+        "stream": "stream-browserify",
+        "buffer": "buffer",
+        "path": "path-browserify",
+        "util": "util",
+        "process": "process/browser"
+      }
+    }]
+  ]
+}
