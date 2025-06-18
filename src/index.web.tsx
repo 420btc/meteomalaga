@@ -1,7 +1,7 @@
 import { registerRootComponent } from 'expo';
 import { Platform } from 'react-native';
-import App from './App';
-import { preloadCriticalResources } from './src/utils/webPerformance';
+import App from '../App';
+import { preloadCriticalResources } from './utils/webPerformance';
 
 // Preload critical resources for web
 if (Platform.OS === 'web') {
